@@ -4,7 +4,10 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+# This is mychange to test checking in to GitHub
+  x <- c(1,2)
+  x
+  
 }
 
 
